@@ -1,19 +1,91 @@
-# 💫 About Me:
-- 👋 Hi, I’m @MrG360
-- 👀 I’m interested in learning new stuff about programming.
-- 📫 You can reach me through my Mail (gauravgkm5@gmail.com)
+# 👋 Hi, I'm Gaurav
 
-🔹 Software Development Engineer with 4+ years expertise in Java & Spring Boot<br>🔹 Specialized in Microservices Architecture & High-Performance REST APIs<br>🔹 Successfully migrated legacy systems to microservices, improving performance by 40%<br>🔹 Optimized API latency by 20% through database query optimization and caching<br>🔹 Led development teams in Agile environment, delivering projects ahead of schedule<br>🔹 Experienced in building financial applications for major clients like Brinks and Bank Muscat<br>🔹 Strong background in system design, performance optimisation, and technical leadership<br>🔹 I’m currently working on developing scalable microservices.<br>🔹 I’m currently learning AWS<br>🔹 Ask me about SpringBoot, Kafka, Microservices
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrG360&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrG360&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrG360&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+Software Development Engineer with 4.5+ years of expertise in building
+scalable, high-performance backend systems using Java and Spring Boot.
+Passionate about microservices architecture, system design, and delivering
+production-grade solutions for enterprise clients.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrG360&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 What I Do
+```
+🔹 Microservices Architecture   — Design and build distributed systems
+🔹 High-Performance REST APIs   — Optimized for low latency and high throughput
+🔹 System Migration             — Legacy to microservices (40% performance boost)
+🔹 API Optimization             — 20% latency reduction via query tuning + caching
+🔹 Technical Leadership         — Agile teams, on-time delivery
+🔹 Financial Applications       — Brinks, Bank Muscat
+```
+
+---
+
+## 📊 Key Achievements
+
+| Achievement | Impact |
+|---|---|
+| Migrated legacy monolith to microservices | 40% performance improvement |
+| Database query optimization + caching | 20% API latency reduction |
+| Led Agile development teams | Projects delivered ahead of schedule |
+| Built financial applications | Clients: Brinks, Bank Muscat |
+
+---
+
+## 🌱 Currently
+```
+📌 Building    → Scalable microservices for enterprise clients
+📚 Learning    → AWS (Solutions Architect)
+💡 Exploring   → Cloud-native patterns and event-driven architecture
+```
+
+---
+
+## 💬 Ask Me About
+```
+☕ Java & Spring Boot          — Best practices, performance, design patterns
+🔧 Microservices               — Architecture, inter-service communication
+📨 Kafka                       — Event streaming, consumer groups, partitioning
+🗄️ Database Optimization       — Query tuning, indexing, caching strategies
+🏗️ System Design               — Scalability, high availability, fault tolerance
+```
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<p align="center">
+  <i>"Build systems that scale, write code that lasts."</i>
+</p>
